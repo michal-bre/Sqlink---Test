@@ -32,15 +32,6 @@ namespace Services
             var tickets = await _repository.ReadAllAsync();
             tickets.Add(ticket);
             await _repository.WriteAllAsync(tickets);
-            try
-            {
-                await _emailService.SendEmailAsync(ticket.Email, "טיקט חדש נפתח", "קישור למעקב...");
-            }
-            catch (Exception ex)
-            {
-                // הדפיסי כאן את השגיאה כדי לראות אותה בחלון ה-Output ב-VS
-                System.Diagnostics.Debug.WriteLine("Email Error: " + ex.Message);
-            }
 
             return ticket;
         }
