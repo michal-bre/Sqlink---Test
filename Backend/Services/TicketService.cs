@@ -51,14 +51,7 @@ namespace Services
                 ticket.UpdatedAt = DateTime.UtcNow;
 
                 await _repository.WriteAllAsync(tickets);
-
-                // שליחת מייל בכל שינוי סטטוס או טקסט פתרון [cite: 50, 51]
-                if (isStatusChanged || isResolutionChanged)
-                {
-                    await _emailService.SendEmailAsync(ticket.Email,
-                        "עדכון בטיקט שלך",
-                        $"הסטטוס עודכן ל: {newStatus}. פתרון: {resolution}");
-                }
+            
             }
         }
 
