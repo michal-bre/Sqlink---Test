@@ -1,0 +1,59 @@
+<div class="container mt-5" style="direction: rtl;">
+  <h2 class="mb-4">לוח בקרה למנהל</h2>
+  
+  <table class="table table-hover shadow-sm">
+    <thead class="table-dark">
+      <tr>
+        <th>שם הלקוח</th>
+        <th>תקציר AI</th>
+        <th>סטטוס</th>
+        <th>פעולה</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let t of tickets">
+        <td>{{ t.fullName }}</td>
+        <td class="text-truncate" style="max-width: 250px;">{{ t.aiSummary }}</td>
+        <td>
+          <span class="badge" [ngClass]="{'bg-secondary': t.status === 0, 'bg-warning': t.status === 1, 'bg-success': t.status === 2}">
+            {{ getStatusName(t.status) }}
+          </span>
+        </td>
+        <td>
+          <button class="btn btn-info btn-sm" (click)="openEditModal(t)">צפייה וטיפול</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="modal fade" id="ticketModal" tabindex="-1" *ngIf="selectedTicket">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header bg-light">
+          <h5 class="modal-title">טיפול בטיקט: {{ selectedTicket.id }}</h5>
+          <button type="button" class="btn-close" (click)="closeModal()"></button>
+        </div>
+        <div class="modal-body text-end">
+          <p><strong>לקוח:</strong> {{ selectedTicket.fullName }} ({{ selectedTicket.email }})</p>
+          <p><strong>תיאור מקורי:</strong> {{ selectedTicket.description }}</p>
+          <hr>
+          <div class="mb-3">
+            <label class="form-label font-weight-bold">הוספת פתרון / תגובה ללקוח:</label>
+            <textarea class="form-control" [(ngModel)]="solutionText" rows="4" placeholder="כתבי כאן את הפתרון שיישלח במייל..."></textarea>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">עדכון סטטוס:</label>
+            <select class="form-select" [(ngModel)]="selectedStatus">
+              <option [value]="1">בטיפול (InProgress)</option>
+              <option [value]="2">סגור (Resolved)</option>
+            </select>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" (click)="closeModal()">ביטול</button>
+          <button type="button" class="btn btn-primary" (click)="saveSolution()">שמור ושלח עדכון</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

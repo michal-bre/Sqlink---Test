@@ -1,0 +1,28 @@
+<div class="form-container">
+  <h2>פתיחת קריאת שירות חדשה</h2>
+  <form (ngSubmit)="onSubmit()">
+    <div class="mb-3">
+      <label>שם מלא:</label>
+      <input type="text" [(ngModel)]="ticket.fullName" name="fullName" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+      <label>אימייל:</label>
+      <input type="email" [(ngModel)]="ticket.email" name="email" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+      <label>תיאור התקלה:</label>
+      <textarea [(ngModel)]="ticket.description" name="description" class="form-control" rows="4" required></textarea>
+    </div>
+
+    <div class="mb-3">
+      <label>העלאת תמונה (אופציונלי):</label>
+      <input type="file" (change)="onFileSelected($event)" class="form-control" accept="image/*">
+    </div>
+
+    <button type="submit" [disabled]="isSubmitting" class="btn btn-primary w-100">
+      {{ isSubmitting ? 'שולח...' : 'פתח טיקט' }}
+    </button>
+  </form>
+</div>
