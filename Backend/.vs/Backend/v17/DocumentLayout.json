@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|solutionrelative:services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\backend\\dtos\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\backend\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE1B90-2670-4416-AA54-1FAA18CB3EEF}|Core\\Core.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\core\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE1B90-2670-4416-AA54-1FAA18CB3EEF}|Core\\Core.csproj|solutionrelative:core\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\services\\aisummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|solutionrelative:services\\aisummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\services\\data\\jsonticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|solutionrelative:services\\data\\jsonticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CC7062-35FD-4264-A171-CE2DA8257E5E}|Services\\Services.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE1B90-2670-4416-AA54-1FAA18CB3EEF}|Core\\Core.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\core\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE1B90-2670-4416-AA54-1FAA18CB3EEF}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE1B90-2670-4416-AA54-1FAA18CB3EEF}|Core\\Core.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\core\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE1B90-2670-4416-AA54-1FAA18CB3EEF}|Core\\Core.csproj|solutionrelative:core\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|y:\\groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\sqlink\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF1E58D9-77F7-4DEA-9984-E52F5F767CE8}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "Services\\TicketService.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\TicketService.cs",
+              "RelativeToolTip": "Services\\TicketService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:01:19.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AiSummaryService.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\AiSummaryService.cs",
+              "RelativeDocumentMoniker": "Services\\AiSummaryService.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\AiSummaryService.cs",
+              "RelativeToolTip": "Services\\AiSummaryService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:04:02.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketCreateDto.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Dtos\\TicketCreateDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Dtos\\TicketCreateDto.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Dtos\\TicketCreateDto.cs",
+              "RelativeToolTip": "Backend\\Dtos\\TicketCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:16:20.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonTicketRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\Data\\JsonTicketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Data\\JsonTicketRepository.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\Data\\JsonTicketRepository.cs",
+              "RelativeToolTip": "Services\\Data\\JsonTicketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:59:41.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:02:44.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T09:34:18.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend\\Properties\\launchSettings.json",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T09:33:45.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:08:52.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\TicketsController.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:07:22.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Core\\Enums\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "Core\\Enums\\TicketStatus.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Core\\Enums\\TicketStatus.cs",
+              "RelativeToolTip": "Core\\Enums\\TicketStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:55:22.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Services\\FileService.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Services\\FileService.cs",
+              "RelativeToolTip": "Services\\FileService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:13:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Core\\Interfaces\\ITicketService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ITicketService.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Core\\Interfaces\\ITicketService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ITicketService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:57:51.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Core\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Ticket.cs",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Core\\Entities\\Ticket.cs",
+              "RelativeToolTip": "Core\\Entities\\Ticket.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:56:26.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Backend",
+              "DocumentMoniker": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "Y:\\Groups\\group_3\\\u05D1\u05E8\u05DB\u05E8 \u05DE\u05D9\u05DB\u05DC\\Sqlink\\Backend\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T08:48:26.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

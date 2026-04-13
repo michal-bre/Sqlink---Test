@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "Y:\\Groups\\group_3\\ברכר מיכל\\Sqlink\\Backend\\Backend\\wwwroot\\uploads\\33680131-6d62-457d-9ce1-ac38e6307000_123אנכי_ילדים.jpg",
+      "PackagePath": "staticwebassets\\uploads\\33680131-6d62-457d-9ce1-ac38e6307000_123אנכי_ילדים.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Backend.props",
+      "PackagePath": "build\\Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Backend.props",
+      "PackagePath": "buildMultiTargeting\\Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Backend.props",
+      "PackagePath": "buildTransitive\\Backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "wR96VkXe60YolElg59mdCXWtUQ4AKxAQyoOZqlKx1vM=",
+  "Source": "Backend",
+  "BasePath": "_content/Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Backend\\wwwroot",
+      "Source": "Backend",
+      "ContentRoot": "Y:\\Groups\\group_3\\ברכר מיכל\\Sqlink\\Backend\\Backend\\wwwroot\\",
+      "BasePath": "_content/Backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "Y:\\Groups\\group_3\\ברכר מיכל\\Sqlink\\Backend\\Backend\\wwwroot\\uploads\\33680131-6d62-457d-9ce1-ac38e6307000_123אנכי_ילדים.jpg",
+      "SourceId": "Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "Y:\\Groups\\group_3\\ברכר מיכל\\Sqlink\\Backend\\Backend\\wwwroot\\",
+      "BasePath": "_content/Backend",
+      "RelativePath": "uploads/33680131-6d62-457d-9ce1-ac38e6307000_123אנכי_ילדים.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\33680131-6d62-457d-9ce1-ac38e6307000_123אנכי_ילדים.jpg"
+    }
+  ]
+}
