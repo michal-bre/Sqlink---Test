@@ -38,3 +38,4 @@ Y:\Groups\group_3\ברכר מיכל\Sqlink\Backend\Backend\obj\Debug\net8.0\Back
 Y:\Groups\group_3\ברכר מיכל\Sqlink\Backend\Backend\obj\Debug\net8.0\ref\Backend.dll
 Y:\Groups\group_3\ברכר מיכל\Sqlink\Backend\Backend\bin\Debug\net8.0\tickets.json
 Y:\Groups\group_3\ברכר מיכל\Sqlink\Backend\Backend\bin\Debug\net8.0\Backend.staticwebassets.runtime.json
+Y:\Groups\group_3\ברכר מיכל\Sqlink\Backend\Backend\obj\Debug\net8.0\Backend.sourcelink.json
